@@ -8,4 +8,4 @@ Utilização:
 
 2) Faça com que o agente aponte para http://IP_DO_API_JSON.PY:8000/inventory
 
-3) Para cada máquina que se comunicar será gerado um .json com o nome da máquina e todas as suas informações salvos na pasta inventarios_brutos.
+3) Para cada máquina que se comunicar será gerado um .json com o nome da máquina e todas as suas informações serão salvas na pasta inventarios_brutos em formato json.
